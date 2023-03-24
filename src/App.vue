@@ -1,19 +1,19 @@
 <template>
 
-  <titolo />
-  <jumbotron />
+  <Titolo />
+  <Jumbotron />
 
 </template>
 
 <script>
-  import titolo from './components/titolo.vue';
-  import jumbotron from './components/bonus_jumbotron.vue';
+  import Titolo from './components/titolo.vue';
+  import Jumbotron from './components/bonus_jumbotron.vue';
 
   export default {
 
     components: {
-      titolo,
-      jumbotron
+      Titolo,
+      Jumbotron
       
     }
 

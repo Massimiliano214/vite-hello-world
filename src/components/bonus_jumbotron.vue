@@ -1,11 +1,17 @@
 <template>
-    <h2>La mia prima app con Vite!</h2>
-  </template>
-  
-  <script>
-  
-  </script>
-  
-  <style>
-  
-  </style>
+    <h2>Mr. Cow?</h2>
+
+    <div>
+        <img src="../../public/foto.jpg" alt="foto cow">
+    </div>
+</template>
+
+<script>
+
+</script>
+
+<style scoped>
+    img {
+        height: 50vh;
+    }
+</style>
