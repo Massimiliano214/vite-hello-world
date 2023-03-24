@@ -6,8 +6,8 @@
 </template>
 
 <script>
-  import Titolo from './components/titolo.vue';
-  import Jumbotron from './components/bonus_jumbotron.vue';
+  import Titolo from './components/Titolo.vue';
+  import Jumbotron from './components/BonusJumbotron.vue';
 
   export default {
 
